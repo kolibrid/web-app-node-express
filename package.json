@@ -1,0 +1,27 @@
+{
+  "name": "web-app-node-express",
+  "version": "1.0.0",
+  "description": "Web application using node.js and express. Pluralsight tutorial.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolibrid/web-app-node-express.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "web"
+  ],
+  "author": "Alvaro Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolibrid/web-app-node-express/issues"
+  },
+  "homepage": "https://github.com/kolibrid/web-app-node-express#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
